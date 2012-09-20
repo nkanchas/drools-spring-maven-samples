@@ -9,4 +9,4 @@ In order to start this example run
 mvn clean test
 ```
 
-You will see all the test successful. It is completely integrated with Spring framework and works with spring-core version 3.0.2-release. There are some issues hence it is not working with 3.1.1.release, I am still exploring. Feel free to modify. For more information on Spring and other stuff visit my [website](http://krishnasblog.com).
+You will see all the test successful. It is completely integrated with Spring framework and works with spring-core version 3.0.2-release. There are some issues hence it is not working with 3.1.1.release, I am still exploring. Feel free to modify. Refer this [blog](http://krishnasblog.com/2012/09/20/spring-drools-spring-business-rules-sample/) for more details.
